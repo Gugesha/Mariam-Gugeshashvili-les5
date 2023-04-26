@@ -1,0 +1,24 @@
+.logo{
+    display: inline-block;
+    margin: 69px 150px 69px 162px;
+    vertical-align: middle;
+}
+.navitem{
+    display: inline-block;
+    vertical-align: middle;
+    /* margin: 84.36px 845px 84.36px 0; */
+    vertical-align: middle;
+    word-spacing: 20px; 
+    /* word spacing not sure */
+}
+.header{
+    width:1919.79px ;
+    height:191.72px ;
+}
+.itemli{
+    display: inline-block;
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+
+}
